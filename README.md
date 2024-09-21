@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Miles Blackwell and I am a junior undergraduate CS student at Columbia University. <br>I am very interested in using code to creatively solve problems!
+My name is Miles Blackwell and I am a senior undergraduate CS student at Columbia University. <br>I am very interested in using code to creatively solve problems!
 
 
 ## 🌐 Socials:
