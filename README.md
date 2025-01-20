@@ -1,3 +1,8 @@
+# 💫 About Me:
+My name is Miles Blackwell and I am a senior undergraduate CS student at Columbia University. <br>I am very interested in using code to creatively solve problems!
+
+
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milesblackwell) 
 
 # 💻 Tech Stack:
