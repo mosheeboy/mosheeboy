@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=%20Miles%20&fontSize=60&fontAlign=22&fontColor=ffffff&textBg=true&desc=Blackwell&descSize=60&descAlign=67&descAlignY=52)
+
 # About Me:
 My name is Miles Blackwell and CS grad from Columbia University. <br>I am very interested in using code to creatively solve problems!
 
